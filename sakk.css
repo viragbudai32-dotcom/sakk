@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700&display=swap');
+
+body{
+    background-image: url(sakk-hatter.png);
+    background-size: 300px;
+}
+
+h1 {
+    font-family: "cinzel decorative" !important;
+    font-size: 96px !important;
+    text-align: center;
+}
+
+.fk {
+    font-weight: bold;
+}
+
+.fekete {
+    background-color: black;
+    color: white;
+}
+
+.feher {
+    background-color: white;
+    color: black;
+}
